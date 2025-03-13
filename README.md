@@ -9,13 +9,13 @@
     some level of control over the remote classrooms.**
 
 ## 🎯Features:
- --**Live Streaming**: Real-time transmission of the lecture to multiple classrooms.      
- --**LAN-Based Streaming**: Utilizes the college's internal network for smooth performance.
- --**Multiple Viewers**: Supports multiple student devices or smart boards in classrooms.
- --**Low Latency**: Ensures minimal delay for an interactive experience.
- --**Lecturer Controls**: Possible interaction between lecturer and remote students.
+ -->**Live Streaming**: Real-time transmission of the lecture to multiple classrooms.      
+ -->**LAN-Based Streaming**: Utilizes the college's internal network for smooth performance.
+ -->**Multiple Viewers**: Supports multiple student devices or smart boards in classrooms.
+ -->**Low Latency**: Ensures minimal delay for an interactive experience.
+ -->**Lecturer Controls**: Possible interaction between lecturer and remote students.
 
 ## 🏆 Goals
- --**Achieve a fully functional LAN-based live lecture streaming system.**
- --**Maintain high-quality video with minimal latency.**
- --**Ensure ease of use for lecturers and students.**
+ -->**Achieve a fully functional LAN-based live lecture streaming system.**
+ -->**Maintain high-quality video with minimal latency.**
+ -->**Ensure ease of use for lecturers and students.**
