@@ -1,6 +1,6 @@
 # ** Live Lecture Streaming System **
                                                                                  
-# # 📌 Project Overview:
+## 📌 Project Overview:
 
    **This project aims to develop a real-time live streaming system for lectures in our college. The system will allow a lecturer in one classroom to broadcast the lecture to multiple other classrooms over LAN, 
     ensuring that no students are left idle when only one lecturer is available.**
